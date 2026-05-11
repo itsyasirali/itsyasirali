@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B5EAA,50:6B7FBF,100:9BA4C7&height=200&section=header&text=Yasir%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Mobile%20Developer%20%7C%20Flutter%20%C2%B7%20iOS%20%C2%B7%20Android%20%C2%B7%20React%20Native&descSize=18&descAlignY=58&descColor=e0e4f5&animation=fadeIn" width="100%" />
 </p>
 
-<br><br>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/yasiraliraj/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,18 +18,24 @@
   <a href="https://yasir-ali-full-stack-developer.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4B5EAA?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  &nbsp;
 </p>
 
-<br><br>
+<br />
+
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/user.svg" height="30" align="absmiddle" /> &nbsp; About Me
 
 <p>
-  Senior Mobile Developer with <b>15+ years</b> of experience building robust, scalable applications across iOS, Android, React Native, and Flutter. Specialized in <b>VoIP integration</b>, <b>real-time communication</b>, and <b>enterprise-grade architecture</b>. Proven track record leading Agile teams and shipping <b>20+ apps</b> with consistent <b>4.5+ ⭐ ratings</b>.
+  I am a seasoned <b>Senior Mobile Developer</b> with over <b>15 years</b> of professional experience in crafting high-performance, scalable, and user-centric applications. My expertise spans across <b>iOS, Android, React Native, and Flutter</b>, with a deep specialization in <b>VoIP integration</b>, <b>real-time communication (WebRTC/SIP)</b>, and <b>enterprise-grade system architecture</b>.
 </p>
 
-<br><br>
+<p>
+  Throughout my career, I have successfully led Agile teams and shipped <b>20+ applications</b> to global markets, consistently maintaining <b>4.5+ ⭐ ratings</b>. I am passionate about clean code, robust security, and delivering seamless user experiences that solve complex business challenges.
+</p>
+
+<br />
+
+
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/cpu.svg" height="30" align="absmiddle" /> &nbsp; Tech Stack
 
@@ -45,8 +49,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br>
-
 **VoIP & Real-Time Communication**
 
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
@@ -55,19 +57,19 @@
 ![CallKit](https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Firebase](https://img.shields.io/badge/PushKit%2FFCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<br>
+**Cloud, Backend & Full Stack**
 
-**Cloud & Backend**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<br>
+<br />
 
 **Architecture & State Management**
 
@@ -77,8 +79,6 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM%2FVIPER-FF6F61?style=for-the-badge&logoColor=white)
 
-<br>
-
 **CI/CD & Tools**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -87,7 +87,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br><br>
+<br />
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/folder-kanban.svg" height="30" align="absmiddle" /> &nbsp; Featured Projects
 
@@ -97,15 +97,11 @@
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![SIP](https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white) ![CallKit](https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<br>
-
 ### **Smart Echo** &nbsp; `iOS / Android / Web`
 
 > AI-enhanced enterprise VoIP platform featuring real-time transcription, SIP integration, and native call handling via CallKit and ConnectionService.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![SIP](https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white) ![CallKit](https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-<br>
 
 ### **Fayvo** &nbsp; `Android`
 
@@ -113,15 +109,11 @@
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<br>
-
 ### **TeamHub** &nbsp; `iOS / Android`
 
 > Enterprise-grade VoIP and team communication platform featuring SIP integration, presence management, and native call handling via CallKit.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![SIP](https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white) ![CallKit](https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-<br>
 
 ### **MouseWait** &nbsp; `iOS / Android`
 
@@ -129,15 +121,13 @@
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<br>
-
 ### **VOIP Distributor** &nbsp; `Web`
 
 > Business management dashboard for VoIP equipment distributors. Integrates Shopify store data with inventory tracking and interactive revenue analytics charts.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white) ![Charts.js](https://img.shields.io/badge/Charts.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-<br><br>
+<br />
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/award.svg" height="30" align="absmiddle" /> &nbsp; Key Achievements
 
@@ -168,8 +158,6 @@
   </tr>
 </table>
 
-<br><br>
-
 ## <img src="https://unpkg.com/lucide-static@latest/icons/handshake.svg" height="30" align="absmiddle" /> &nbsp; Connect With Me
 
 <p align="center">
@@ -189,8 +177,6 @@
     <img src="https://img.shields.io/badge/Portfolio-4B5EAA?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
-<br><br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9BA4C7,50:6B7FBF,100:4B5EAA&height=120&section=footer" width="100%" />
