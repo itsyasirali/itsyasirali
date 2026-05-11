@@ -27,39 +27,6 @@
   Senior Mobile Developer with <b>15+ years</b> of experience building robust, scalable applications across iOS, Android, React Native, and Flutter. Specialized in <b>VoIP integration</b>, <b>real-time communication</b>, and <b>enterprise-grade architecture</b>. Proven track record leading Agile teams and shipping <b>20+ apps</b> with consistent <b>4.5+ ⭐ ratings</b>.
 </p>
 
-## <img src="https://unpkg.com/lucide-static@latest/icons/briefcase.svg" height="30" align="absmiddle" /> &nbsp; Work Experience
-
-**CEO & Founder | Revolutic** &nbsp; `Apr 2022 – Present`
-
-- Leading strategic product development and engineering for high-scale mobile solutions
-- Spearheading innovation in VoIP, AI, and real-time communication platforms
-- Managing cross-functional teams to deliver enterprise-grade applications
-- Overseeing end-to-end technical architecture and business growth strategies
-
-**Senior Flutter Developer | AppsGenii Technologies** &nbsp; `Jan 2021 – Apr 2022`
-
-- Built modular Flutter apps for iOS & Android following clean architecture and best practices
-- Integrated **Firebase** & **AWS Cognito** for secure auth and real-time data sync
-- Delivered white-labeled multi-tenant apps with dynamic theming and reusable UI components
-- Led Agile sprints and CI/CD automation using **Codemagic**, **Fastlane**, and **GitHub Actions**
-
-**Team Lead (Flutter) | ILSA Interactive** &nbsp; `Apr 2018 – Jan 2021`
-
-- Led Flutter development for startups and enterprises across healthcare, e-commerce & communications
-- Implemented scalable architecture using **Riverpod**, **BLoC**, and clean code principles
-- Aligned client goals with project timelines through structured technical delivery
-
-**Engineering Manager & Team Lead | Eureka Technology Studio** &nbsp; `Feb 2016 – Apr 2018`
-
-- Migrated legacy hybrid apps to Flutter improving performance, UI consistency & maintainability
-- Built health & fitness apps with custom animations, workout tracking, and wearable integration
-- Mentored junior developers, enforcing clean code and scalable architecture
-
-**Team Lead (Flutter) | MenuSpring** &nbsp; `Dec 2013 – Feb 2016`
-
-- Migrated native apps to Flutter, reducing code duplication and streamlining maintenance
-- Implemented location-aware features, push notifications, and efficient state management
-- Optimized performance with lazy loading, deferred initialization, and widget tree tuning
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/cpu.svg" height="30" align="absmiddle" /> &nbsp; Tech Stack
 
