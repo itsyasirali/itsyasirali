@@ -129,35 +129,6 @@
 
 <br />
 
-## <img src="https://unpkg.com/lucide-static@latest/icons/award.svg" height="30" align="absmiddle" /> &nbsp; Key Achievements
-
-<table width="100%">
-  <tr>
-    <td width="50%"><b>Achievement</b><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="470" height="1" /></td>
-    <td width="50%"><b>Impact</b><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="470" height="1" /></td>
-  </tr>
-  <tr>
-    <td>Migrated 8+ legacy apps to modern frameworks</td>
-    <td>Performance improved <b>50%+</b></td>
-  </tr>
-  <tr>
-    <td>Systematic crash optimization across portfolio</td>
-    <td>Crash rates reduced by <b>60%</b></td>
-  </tr>
-  <tr>
-    <td>CI/CD automation with Fastlane & GitHub Actions</td>
-    <td>Release cycles accelerated by <b>40%</b></td>
-  </tr>
-  <tr>
-    <td>Mentored developers across multiple teams</td>
-    <td><b>15+ developers</b> upskilled</td>
-  </tr>
-  <tr>
-    <td>Delivered apps to App Store & Play Store</td>
-    <td><b>20+ apps</b> · <b>4.5+ ⭐ ratings</b></td>
-  </tr>
-</table>
-
 ## <img src="https://unpkg.com/lucide-static@latest/icons/handshake.svg" height="30" align="absmiddle" /> &nbsp; Connect With Me
 
 <p align="center">
