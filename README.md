@@ -28,11 +28,6 @@
 <p>
   I am a seasoned <b>Senior Mobile Developer</b> with over <b>15 years</b> of professional experience in crafting high-performance, scalable, and user-centric applications. My expertise spans across <b>iOS, Android, React Native, and Flutter</b>, with a deep specialization in <b>VoIP integration</b>, <b>real-time communication (WebRTC/SIP)</b>, and <b>enterprise-grade system architecture</b>.
 </p>
-
-<p>
-  Throughout my career, I have successfully led Agile teams and shipped <b>20+ applications</b> to global markets, consistently maintaining <b>4.5+ ⭐ ratings</b>. I am passionate about clean code, robust security, and delivering seamless user experiences that solve complex business challenges.
-</p>
-
 <br />
 
 
