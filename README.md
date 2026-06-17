@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://yasir-ali-full-stack-developer.vercel.app/">
+  <a href="[https://yasirali-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4B5EAA?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
