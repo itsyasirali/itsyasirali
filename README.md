@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B5EAA,50:6B7FBF,100:9BA4C7&height=200&section=header&text=Yasir%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full Stack%20Engineer%20%7C%20Flutter%20%C2%B7%20iOS%20%C2%B7%20Android%20%C2%B7%20React%20Native&descSize=18&descAlignY=58&descColor=e0e4f5&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B5EAA,50:6B7FBF,100:9BA4C7&height=200&section=header&text=Yasir%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=4B5EAA&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Engineer;Flutter+%C2%B7+iOS+%C2%B7+Android+%C2%B7+React+Native;Building+reliable+and+scalable+backend+services;Turning+ideas+into+products+users+genuinely+love!" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -121,6 +127,15 @@
 > Business management dashboard for VoIP equipment distributors. Integrates Shopify store data with inventory tracking and interactive revenue analytics charts.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white) ![Charts.js](https://img.shields.io/badge/Charts.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+<br />
+
+## <img src="https://unpkg.com/lucide-static@latest/icons/activity.svg" height="30" align="absmiddle" /> &nbsp; GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsyasirali&show_icons=true&theme=transparent&hide_border=true&title_color=4B5EAA&icon_color=4B5EAA&text_color=333333" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsyasirali&theme=transparent&hide_border=true&title_color=4B5EAA&icon_color=4B5EAA&text_color=333333" alt="GitHub Streak" />
+</p>
 
 <br />
 
