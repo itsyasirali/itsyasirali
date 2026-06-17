@@ -133,8 +133,12 @@
 ## <img src="https://unpkg.com/lucide-static@latest/icons/activity.svg" height="30" align="absmiddle" /> &nbsp; GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsyasirali&show_icons=true&theme=transparent&hide_border=true&title_color=4B5EAA&icon_color=4B5EAA&text_color=333333" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsyasirali&theme=transparent&hide_border=true&title_color=4B5EAA&icon_color=4B5EAA&text_color=333333" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsyasirali&show_icons=true&theme=transparent&hide_border=true&title_color=4B5EAA&icon_color=4B5EAA&text_color=333333&custom_title=2026%20GitHub%20Activity&commits_year=2026" alt="2026 GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsyasirali&theme=transparent&hide_border=true&title_color=4B5EAA&icon_color=4B5EAA&text_color=333333&starting_year=2026" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsyasirali&bg_color=transparent&color=4B5EAA&line=4B5EAA&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </p>
 
 <br />
@@ -154,7 +158,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://yasir-ali-full-stack-developer.vercel.app/">
+  <a href="https://yasirali-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4B5EAA?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
