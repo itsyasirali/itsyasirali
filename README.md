@@ -26,7 +26,7 @@
 ## <img src="https://unpkg.com/lucide-static@latest/icons/user.svg" height="30" align="absmiddle" /> &nbsp; About Me
 
 <p>
-  I am a seasoned <b>Senior Mobile Developer</b> with over <b>15 years</b> of professional experience in crafting high-performance, scalable, and user-centric applications. My expertise spans across <b>iOS, Android, React Native, and Flutter</b>, with a deep specialization in <b>VoIP integration</b>, <b>real-time communication (WebRTC/SIP)</b>, and <b>enterprise-grade system architecture</b>.
+ I’m a Full Stack Engineer with extensive experience building mobile and web applications that help businesses grow and solve real-world problems. Over the years, I’ve worked with startups, growing companies, and enterprise teams to design, develop, and launch scalable digital products. My expertise spans mobile development, modern web technologies, backend systems, and software architecture. Whether I'm developing a high-performance mobile app, building scalable backend services, or creating intuitive user experiences, I focus on delivering solutions that are reliable, maintainable, and aligned with business goals. I enjoy turning ideas into products, solving complex technical challenges, and collaborating with teams to create software that users genuinely love.
 </p>
 <br />
 
