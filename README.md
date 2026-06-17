@@ -134,7 +134,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsyasirali&show_icons=true&theme=transparent&hide_border=true&title_color=4B5EAA&icon_color=4B5EAA&text_color=333333&custom_title=2026%20GitHub%20Activity&commits_year=2026" alt="2026 GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=itsyasirali&theme=transparent&hide_border=true&title_color=4B5EAA&icon_color=4B5EAA&text_color=333333&starting_year=2026" alt="GitHub Streak" />
 </p>
 
 <p align="center">
