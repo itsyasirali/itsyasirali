@@ -21,25 +21,67 @@
 
 **Mobile Platforms**
 
-<a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
+  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+</div>
+
+<br/>
 
 **VoIP & Real-Time Communication**
 
-<a href="#"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/SIP_Protocol-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Amazon_Chime_SDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Chime" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/PushKit%2FFCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
+  <a href="#"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SIP_Protocol-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Amazon_Chime_SDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Chime" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PushKit%2FFCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+</div>
+
+<br/>
 
 **Cloud, Backend & Full Stack**
 
-<a href="#"><img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST" /></a>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
+  <a href="#"><img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST" /></a>
+</div>
 
 <br />
 
 **Architecture & State Management**
 
-<a href="#"><img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logoColor=white" alt="Clean Arch" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logoColor=white" alt="Riverpod" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/MVVM%2FVIPER-FF6F61?style=for-the-badge&logoColor=white" alt="MVVM" /></a>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
+  <a href="#"><img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logoColor=white" alt="Clean Arch" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logoColor=white" alt="Riverpod" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MVVM%2FVIPER-FF6F61?style=for-the-badge&logoColor=white" alt="MVVM" /></a>
+</div>
+
+<br/>
 
 **CI/CD & Tools**
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logoColor=white" alt="Codemagic" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
+  <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logoColor=white" alt="Codemagic" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+</div>
 
 <br />
 
@@ -49,37 +91,72 @@
 
 > Enterprise-grade VoIP and real-time communication platform featuring SIP integration and native call handling via CallKit and ConnectionService.
 
-<a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
+  <a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+</div>
 
 ### **Smart Echo** &nbsp; `iOS / Android / Web`
 
 > AI-enhanced enterprise VoIP platform featuring real-time transcription, SIP integration, and native call handling via CallKit and ConnectionService.
 
-<a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
+  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+</div>
 
 ### **Fayvo** &nbsp; `Android`
 
 > Secure media-sharing social platform with AWS Cognito authentication and real-time location tracking. Supports encrypted media uploads and dynamic content rendering.
 
-<a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" /></a>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
+  <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" /></a>
+</div>
 
 ### **TeamHub** &nbsp; `iOS / Android`
 
 > Enterprise-grade VoIP and team communication platform featuring SIP integration, presence management, and native call handling via CallKit.
 
-<a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
+  <a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
+</div>
 
 ### **MouseWait** &nbsp; `iOS / Android`
 
 > Disneyland companion app with live ride wait times, park updates, and interactive map overlays. REST APIs for real-time sync with park data and community features for Disney fans.
 
-<a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" /></a>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
+  <a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" /></a>
+</div>
 
 ### **VOIP Distributor** &nbsp; `Web`
 
 > Business management dashboard for VoIP equipment distributors. Integrates Shopify store data with inventory tracking and interactive revenue analytics charts.
 
-<a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Charts.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Charts" /></a>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Charts.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Charts" /></a>
+</div>
 
 <br />
 
