@@ -83,21 +83,6 @@
 
 <br />
 
-## <img src="https://unpkg.com/lucide-static@latest/icons/handshake.svg" height="30" align="absmiddle" /> &nbsp; Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yasiraliraj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/922322322022">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://yasirali-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4B5EAA?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9BA4C7,50:6B7FBF,100:4B5EAA&height=120&section=footer" width="100%" />
