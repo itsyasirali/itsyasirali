@@ -21,7 +21,7 @@
 
 **Mobile Platforms**
 
-<p>
+<p align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
@@ -33,7 +33,7 @@
 
 **VoIP & Real-Time Communication**
 
-<p>
+<p align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
   <img src="https://img.shields.io/badge/SIP_Protocol-00599C?style=for-the-badge&logoColor=white" alt="SIP" />
   <img src="https://img.shields.io/badge/Amazon_Chime_SDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Chime" />
@@ -43,7 +43,7 @@
 
 **Cloud, Backend & Full Stack**
 
-<p>
+<p align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" />
@@ -59,7 +59,7 @@
 
 **Architecture & State Management**
 
-<p>
+<p align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logoColor=white" alt="Clean Architecture" />
   <img src="https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
   <img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logoColor=white" alt="Riverpod" />
@@ -69,7 +69,7 @@
 
 **CI/CD & Tools**
 
-<p>
+<p align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" />
   <img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logoColor=white" alt="Codemagic" />
@@ -85,7 +85,7 @@
 
 > Enterprise-grade VoIP and real-time communication platform featuring SIP integration and native call handling via CallKit and ConnectionService.
 
-<p>
+<p align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
@@ -98,7 +98,7 @@
 
 > AI-enhanced enterprise VoIP platform featuring real-time transcription, SIP integration, and native call handling via CallKit and ConnectionService.
 
-<p>
+<p align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
   <img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" />
@@ -111,7 +111,7 @@
 
 > Secure media-sharing social platform with AWS Cognito authentication and real-time location tracking. Supports encrypted media uploads and dynamic content rendering.
 
-<p>
+<p align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" />
@@ -121,7 +121,7 @@
 
 > Enterprise-grade VoIP and team communication platform featuring SIP integration, presence management, and native call handling via CallKit.
 
-<p>
+<p align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
   <img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" />
@@ -134,7 +134,7 @@
 
 > Disneyland companion app with live ride wait times, park updates, and interactive map overlays. REST APIs for real-time sync with park data and community features for Disney fans.
 
-<p>
+<p align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
@@ -145,7 +145,7 @@
 
 > Business management dashboard for VoIP equipment distributors. Integrates Shopify store data with inventory tracking and interactive revenue analytics charts.
 
-<p>
+<p align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
