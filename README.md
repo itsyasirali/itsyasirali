@@ -112,21 +112,6 @@
 
 <br />
 
-## <img src="https://unpkg.com/lucide-static@latest/icons/activity.svg" height="30" align="absmiddle" /> &nbsp; GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsyasirali&show_icons=true&theme=transparent&hide_border=true&title_color=4B5EAA&icon_color=4B5EAA&text_color=333333&custom_title=2026%20GitHub%20Activity&commits_year=2026" alt="2026 GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/4B5EAA/itsyasirali" alt="Contribution Graph" />
-</p>
-
-<br />
-
-## <img src="https://unpkg.com/lucide-static@latest/icons/handshake.svg" height="30" align="absmiddle" /> &nbsp; Connect With Me
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9BA4C7,50:6B7FBF,100:4B5EAA&height=120&section=footer" width="100%" />
