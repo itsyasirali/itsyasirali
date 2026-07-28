@@ -21,48 +21,48 @@
 
 **Mobile Platforms**
 
-<table>
+<table border="0" style="border: none; background-color: transparent;">
   <tbody>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td>
+    <tr style="border: none; background-color: transparent;">
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td>
     </tr>
   </tbody>
 </table>
 
 **VoIP & Real-Time Communication**
 
-<table>
+<table border="0" style="border: none; background-color: transparent;">
   <tbody>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/SIP_Protocol-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Amazon_Chime_SDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Chime" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/PushKit%2FFCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></td>
+    <tr style="border: none; background-color: transparent;">
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/SIP_Protocol-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Amazon_Chime_SDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Chime" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/PushKit%2FFCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></td>
     </tr>
   </tbody>
 </table>
 
 **Cloud, Backend & Full Stack**
 
-<table>
+<table border="0" style="border: none; background-color: transparent;">
   <tbody>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></td>
+    <tr style="border: none; background-color: transparent;">
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></td>
     </tr>
   </tbody>
 </table>
@@ -71,28 +71,28 @@
 
 **Architecture & State Management**
 
-<table>
+<table border="0" style="border: none; background-color: transparent;">
   <tbody>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logoColor=white" alt="Clean Architecture" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logoColor=white" alt="Riverpod" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/MVVM%2FVIPER-FF6F61?style=for-the-badge&logoColor=white" alt="MVVM" /></td>
+    <tr style="border: none; background-color: transparent;">
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logoColor=white" alt="Clean Architecture" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logoColor=white" alt="Riverpod" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/MVVM%2FVIPER-FF6F61?style=for-the-badge&logoColor=white" alt="MVVM" /></td>
     </tr>
   </tbody>
 </table>
 
 **CI/CD & Tools**
 
-<table>
+<table border="0" style="border: none; background-color: transparent;">
   <tbody>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logoColor=white" alt="Codemagic" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></td>
+    <tr style="border: none; background-color: transparent;">
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logoColor=white" alt="Codemagic" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></td>
     </tr>
   </tbody>
 </table>
@@ -105,15 +105,15 @@
 
 > Enterprise-grade VoIP and real-time communication platform featuring SIP integration and native call handling via CallKit and ConnectionService.
 
-<table>
+<table border="0" style="border: none; background-color: transparent;">
   <tbody>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></td>
+    <tr style="border: none; background-color: transparent;">
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></td>
     </tr>
   </tbody>
 </table>
@@ -122,15 +122,15 @@
 
 > AI-enhanced enterprise VoIP platform featuring real-time transcription, SIP integration, and native call handling via CallKit and ConnectionService.
 
-<table>
+<table border="0" style="border: none; background-color: transparent;">
   <tbody>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></td>
+    <tr style="border: none; background-color: transparent;">
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></td>
     </tr>
   </tbody>
 </table>
@@ -139,12 +139,12 @@
 
 > Secure media-sharing social platform with AWS Cognito authentication and real-time location tracking. Supports encrypted media uploads and dynamic content rendering.
 
-<table>
+<table border="0" style="border: none; background-color: transparent;">
   <tbody>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" /></td>
+    <tr style="border: none; background-color: transparent;">
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" /></td>
     </tr>
   </tbody>
 </table>
@@ -153,15 +153,15 @@
 
 > Enterprise-grade VoIP and team communication platform featuring SIP integration, presence management, and native call handling via CallKit.
 
-<table>
+<table border="0" style="border: none; background-color: transparent;">
   <tbody>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></td>
+    <tr style="border: none; background-color: transparent;">
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></td>
     </tr>
   </tbody>
 </table>
@@ -170,13 +170,13 @@
 
 > Disneyland companion app with live ride wait times, park updates, and interactive map overlays. REST APIs for real-time sync with park data and community features for Disney fans.
 
-<table>
+<table border="0" style="border: none; background-color: transparent;">
   <tbody>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" /></td>
+    <tr style="border: none; background-color: transparent;">
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" /></td>
     </tr>
   </tbody>
 </table>
@@ -185,13 +185,13 @@
 
 > Business management dashboard for VoIP equipment distributors. Integrates Shopify store data with inventory tracking and interactive revenue analytics charts.
 
-<table>
+<table border="0" style="border: none; background-color: transparent;">
   <tbody>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Charts.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Charts.js" /></td>
+    <tr style="border: none; background-color: transparent;">
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></td>
+      <td align="center" style="border: none; background-color: transparent;"><img src="https://img.shields.io/badge/Charts.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Charts.js" /></td>
     </tr>
   </tbody>
 </table>
