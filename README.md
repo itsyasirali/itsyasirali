@@ -22,55 +22,19 @@
 **Mobile Platforms**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 **VoIP & Real-Time Communication**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SIP_Protocol-00599C?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Amazon_Chime_SDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/PushKit%2FFCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/SIP_Protocol-00599C?style=for-the-badge&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Amazon_Chime_SDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/PushKit%2FFCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 **Cloud, Backend & Full Stack**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 <br />
@@ -78,29 +42,13 @@
 **Architecture & State Management**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MVVM%2FVIPER-FF6F61?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/MVVM%2FVIPER-FF6F61?style=for-the-badge&logoColor=white" />
 </p>
 
 **CI/CD & Tools**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <br />
@@ -112,17 +60,7 @@
 > Enterprise-grade VoIP and real-time communication platform featuring SIP integration and native call handling via CallKit and ConnectionService.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### **Smart Echo** &nbsp; `iOS / Android / Web`
@@ -130,17 +68,7 @@
 > AI-enhanced enterprise VoIP platform featuring real-time transcription, SIP integration, and native call handling via CallKit and ConnectionService.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### **Fayvo** &nbsp; `Android`
@@ -148,11 +76,7 @@
 > Secure media-sharing social platform with AWS Cognito authentication and real-time location tracking. Supports encrypted media uploads and dynamic content rendering.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ### **TeamHub** &nbsp; `iOS / Android`
@@ -160,17 +84,7 @@
 > Enterprise-grade VoIP and team communication platform featuring SIP integration, presence management, and native call handling via CallKit.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 ### **MouseWait** &nbsp; `iOS / Android`
@@ -178,13 +92,7 @@
 > Disneyland companion app with live ride wait times, park updates, and interactive map overlays. REST APIs for real-time sync with park data and community features for Disney fans.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ### **VOIP Distributor** &nbsp; `Web`
@@ -192,13 +100,7 @@
 > Business management dashboard for VoIP equipment distributors. Integrates Shopify store data with inventory tracking and interactive revenue analytics charts.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Charts.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Charts.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 </p>
 
 <br />
