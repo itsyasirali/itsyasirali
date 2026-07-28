@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E7FE3,50:8189D6,100:9BA4C7&height=200&section=header&text=Ahmad&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B5EAA,50:6B7FBF,100:9BA4C7&height=200&section=header&text=Yasir%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=6E7FE3&center=true&vCenter=true&width=800&lines=Founder+%26+Full+Stack+Engineer;Next.js+%C2%B7+PostgreSQL+%C2%B7+AI+Infrastructure;Building+multi-tenant+AI+SaaS+products;Turning+ideas+into+products+users+genuinely+love!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=4B5EAA&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Engineer;Flutter+%C2%B7+iOS+%C2%B7+Android+%C2%B7+React+Native;Building+reliable+and+scalable+backend+services;Turning+ideas+into+products+users+genuinely+love!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,77 +13,192 @@
 ## <img src="https://unpkg.com/lucide-static@latest/icons/user.svg" height="30" align="absmiddle" /> &nbsp; About Me
 
 <p>
-I'm the founder and technical lead of <b>Revolutic</b>, where I build AI-powered SaaS products end to end — architecture, backend, and integrations. My current focus is <b>CallMind AI</b>, a multi-tenant AI Employee platform that lets businesses deploy AI agents for Sales, Support, and HR over WhatsApp. I care about shipping reliable, multi-tenant systems that solve real business problems, and I enjoy going deep on integration-heavy work — payment platforms, messaging APIs, and AI infrastructure.
+ I’m a Full Stack Engineer with extensive experience building mobile and web applications that help businesses grow and solve real-world problems. Over the years, I’ve worked with startups, growing companies, and enterprise teams to design, develop, and launch scalable digital products. My expertise spans mobile development, modern web technologies, backend systems, and software architecture. Whether I'm developing a high-performance mobile app, building scalable backend services, or creating intuitive user experiences, I focus on delivering solutions that are reliable, maintainable, and aligned with business goals. I enjoy turning ideas into products, solving complex technical challenges, and collaborating with teams to create software that users genuinely love.
 </p>
 <br />
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/cpu.svg" height="30" align="absmiddle" /> &nbsp; Tech Stack
 
-**Backend & Full Stack**
+**Mobile Platforms**
 
-<table><tr>
-<td><img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></td>
-<td><img src="https://img.shields.io/badge/-%20-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></td>
-<td><img src="https://img.shields.io/badge/-%20-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td>
-<td><img src="https://img.shields.io/badge/-%20-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" /></td>
-<td><img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="NextAuth.js" /></td>
-<td><img src="https://img.shields.io/badge/-%20-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" /></td>
-</tr></table>
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td>
+    </tr>
+  </tbody>
+</table>
 
-**Database & AI Infrastructure**
+**VoIP & Real-Time Communication**
 
-<table><tr>
-<td><img src="https://img.shields.io/badge/-%20-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td>
-<td><img src="https://img.shields.io/badge/-%20-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" /></td>
-<td><img src="https://img.shields.io/badge/-%20-F55036?style=for-the-badge&logo=lightning&logoColor=white" alt="Groq" /></td>
-</tr></table>
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/SIP_Protocol-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Amazon_Chime_SDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Chime" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/PushKit%2FFCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></td>
+    </tr>
+  </tbody>
+</table>
 
-**Integrations & Commerce**
+**Cloud, Backend & Full Stack**
 
-<table><tr>
-<td><img src="https://img.shields.io/badge/-%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business API" /></td>
-<td><img src="https://img.shields.io/badge/-%20-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /></td>
-<td><img src="https://img.shields.io/badge/-%20-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></td>
-<td><img src="https://img.shields.io/badge/-%20-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" /></td>
-</tr></table>
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+**Architecture & State Management**
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logoColor=white" alt="Clean Architecture" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logoColor=white" alt="Riverpod" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/MVVM%2FVIPER-FF6F61?style=for-the-badge&logoColor=white" alt="MVVM" /></td>
+    </tr>
+  </tbody>
+</table>
 
 **CI/CD & Tools**
 
-<table><tr>
-<td><img src="https://img.shields.io/badge/-%20-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></td>
-<td><img src="https://img.shields.io/badge/-%20-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></td>
-<td><img src="https://img.shields.io/badge/-%20-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></td>
-<td><img src="https://img.shields.io/badge/-%20-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /></td>
-</tr></table>
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logoColor=white" alt="Codemagic" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></td>
+    </tr>
+  </tbody>
+</table>
 
 <br />
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/folder-kanban.svg" height="30" align="absmiddle" /> &nbsp; Featured Projects
 
-### **CallMind AI** &nbsp; `SaaS / WhatsApp`
+### **CloudCall** &nbsp; `iOS / Android`
 
-> Multi-tenant AI Employee platform that deploys Sales, Support, and HR agents over WhatsApp. Built on direct Cloud API + Embedded Signup integration with strict per-tenant data isolation and encrypted token storage.
+> Enterprise-grade VoIP and real-time communication platform featuring SIP integration and native call handling via CallKit and ConnectionService.
 
-<table><tr>
-<td><img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></td>
-<td><img src="https://img.shields.io/badge/-%20-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td>
-<td><img src="https://img.shields.io/badge/-%20-F55036?style=for-the-badge&logo=lightning&logoColor=white" alt="Groq" /></td>
-<td><img src="https://img.shields.io/badge/-%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></td>
-<td><img src="https://img.shields.io/badge/-%20-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /></td>
-</tr></table>
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></td>
+    </tr>
+  </tbody>
+</table>
 
-### **AI Commerce OS** &nbsp; `Concept`
+### **Smart Echo** &nbsp; `iOS / Android / Web`
 
-> A unified commerce operating system — one product catalog and one inventory managed across Shopify, Amazon, eBay, and WooCommerce, orchestrated by AI agents.
+> AI-enhanced enterprise VoIP platform featuring real-time transcription, SIP integration, and native call handling via CallKit and ConnectionService.
 
-<table><tr>
-<td><img src="https://img.shields.io/badge/-%20-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></td>
-<td><img src="https://img.shields.io/badge/-%20-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon" /></td>
-<td><img src="https://img.shields.io/badge/-%20-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" /></td>
-</tr></table>
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></td>
+    </tr>
+  </tbody>
+</table>
+
+### **Fayvo** &nbsp; `Android`
+
+> Secure media-sharing social platform with AWS Cognito authentication and real-time location tracking. Supports encrypted media uploads and dynamic content rendering.
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" /></td>
+    </tr>
+  </tbody>
+</table>
+
+### **TeamHub** &nbsp; `iOS / Android`
+
+> Enterprise-grade VoIP and team communication platform featuring SIP integration, presence management, and native call handling via CallKit.
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/SIP-00599C?style=for-the-badge&logoColor=white" alt="SIP" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/CallKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CallKit" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></td>
+    </tr>
+  </tbody>
+</table>
+
+### **MouseWait** &nbsp; `iOS / Android`
+
+> Disneyland companion app with live ride wait times, park updates, and interactive map overlays. REST APIs for real-time sync with park data and community features for Disney fans.
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" /></td>
+    </tr>
+  </tbody>
+</table>
+
+### **VOIP Distributor** &nbsp; `Web`
+
+> Business management dashboard for VoIP equipment distributors. Integrates Shopify store data with inventory tracking and interactive revenue analytics charts.
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Charts.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Charts.js" /></td>
+    </tr>
+  </tbody>
+</table>
 
 <br />
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9BA4C7,50:8189D6,100:6E7FE3&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9BA4C7,50:6B7FBF,100:4B5EAA&height=120&section=footer" width="100%" />
 </p>
